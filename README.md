@@ -1,6 +1,5 @@
 # Coffee App UI
 
-<<<<<<< HEAD
 App UI for Coffee Shop Mobile App designed by [Adhiari Subekti](https://dribbble.com/Adhiari_is) available on [Dribbble](https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode)
 
 ## Table of Contents
@@ -64,12 +63,3 @@ Everyone else can help me using Ko-fi
 ## License
 
 - **[MIT license](https://github.com/zyllus17/doctor-app-ui/blob/master/LICENSE)**
-=======
-Design - [Coffee Shop Mobile Apps - Dark Mode](https://dribbble.com/shots/15475209-Coffee-Shop-Mobile-Apps-Dark-Mode)
-
-
-Design by [Adhiari Subekti](https://dribbble.com/Adhiari_is)
-
-
-![image](https://user-images.githubusercontent.com/50977126/159301609-8730391d-3d72-47ec-a225-1ddad9cd8570.png)
->>>>>>> 189c635eaf20b328f3c85ea07b58bab8eb2f64af
